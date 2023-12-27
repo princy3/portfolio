@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(235, 235, 197);
+}
+.dgvc{
+    text-align: center;
+}
+h2{
+    color:rgb(41, 10, 219);
+}
+th,td{
+    width:200px;
+    height:30px;
+}
